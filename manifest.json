@@ -1,6 +1,6 @@
 {
   "name" : "Coursera Subtitle Re-sizer",
-  "version" : "0.1",
+  "version" : "0.1.1",
   "description" : "Re-size Coursera Subtitle without developer mode.",
   "permissions": ["activeTab"],
   "browser_action": {
